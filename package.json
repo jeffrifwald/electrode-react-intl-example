@@ -1,7 +1,8 @@
 {
-  "name": "neato",
+  "name": "electrode-react-intl-example",
+  "private": true,
   "version": "0.0.1",
-  "description": "Neato Stuff",
+  "description": "Example with electrode and react-intl",
   "homepage": "",
   "author": {
     "name": "Jeff McRiffey",
